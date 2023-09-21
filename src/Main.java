@@ -1,4 +1,3 @@
-import java.util.*;
 /*
 CS 11.02 - Quiz 2.1
 Author: Katie Fu
