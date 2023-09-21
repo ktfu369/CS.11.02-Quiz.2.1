@@ -20,7 +20,7 @@ public class Main {
         System.out.println(resultThree);
 
         // 4. Call printMe method
-        printMe("hello");
+        printMe(3);
     }
 
     // 1. add method
@@ -39,7 +39,7 @@ public class Main {
     }
 
     // 4. printMe method
-    public static void printMe(String toBePrinted){
+    public static void printMe(int toBePrinted){
         System.out.println(toBePrinted);
     }
 }
